@@ -1,6 +1,6 @@
 {
   "name": "torus-web-browser-version",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Torus web Solana browser version",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/alexandr-kazakov/torus-web-browser-version.git"
   },
   "keywords": [
-    "base-x",
+    "torus web",
+    "torus solana",
+    "torus web browser",
     "browser"
   ],
   "author": "Alexandr Kazakov",
