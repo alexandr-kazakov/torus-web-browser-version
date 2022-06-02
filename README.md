@@ -7,7 +7,7 @@
 # Usage
 
 ``` javascript
-const torus = new torusWeb.default());
+const torus = new torusWeb.default();
 await torus.init({});
 await torus.login();
 ```
