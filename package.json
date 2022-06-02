@@ -1,6 +1,6 @@
 {
   "name": "torus-web-browser-version",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Torus web Solana browser version",
   "main": "index.js",
   "scripts": {
