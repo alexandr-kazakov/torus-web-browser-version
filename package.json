@@ -1,0 +1,23 @@
+{
+  "name": "torus-web-browser-version",
+  "version": "0.1.0",
+  "description": "Torus web Solana browser version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandr-kazakov/torus-web-browser-version.git"
+  },
+  "keywords": [
+    "base-x",
+    "browser"
+  ],
+  "author": "Alexandr Kazakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandr-kazakov/torus-web-browser-version/issues"
+  },
+  "homepage": "https://github.com/alexandr-kazakov/torus-web-browser-version#readme"
+}
